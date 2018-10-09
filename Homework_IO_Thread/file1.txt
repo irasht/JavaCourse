@@ -1,0 +1,6 @@
+My career
+My name is Ira. I was born in 1994 year.
+I have started learning programming last year.
+I’ve completed different online courses in Java, OOP, SQL, learned different programming literature.
+Now I'm finishing SoftServe course "Java Core".
+In the near future I want to continue to improve my knowledge of programming and build my career in this field.

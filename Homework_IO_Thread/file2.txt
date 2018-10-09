@@ -1,0 +1,3 @@
+number of lines in file1.txt :6 lines
+the longest line in file1.txt :In the near future I want to continue to improve my knowledge of programming and build my career in this field. 
+name and birthday date :My name is Ira. I was born in 1994 year. lines
